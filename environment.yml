@@ -1,4 +1,4 @@
-name: lab08-same-model-twice
+name: lab09-fine-tune-and-publish
 
 channels:
   - conda-forge

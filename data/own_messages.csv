@@ -1,0 +1,41 @@
+text,label
+My bank shows two withdrawals for one trip,billing
+Where did my deposit go?,billing
+The total is higher than the price on the screen,billing
+Can you send an invoice for Tuesday?,billing
+I paid with cash but the app says unpaid,billing
+Need my mony back,billing
+A fee appeared after my free trial ended,billing
+The discount code did not lower the total,billing
+Why is there a hold on my debit card?,billing
+I cancelled the ride but still owe five dollars,billing
+The chain jumped off halfway home,bike_fault
+Front wheel wobbles badly,bike_fault
+The handlebar twists when I turn,bike_fault
+The bell is jammed,bike_fault
+My saddle keeps sliding down,bike_fault
+Rear tyre has no air,bike_fault
+The gear lever will not move,bike_fault
+The light on the bicycle is dead,bike_fault
+The pedel snapped while I was riding,bike_fault
+Something scrapes against the wheel whenever it spins,bike_fault
+All parking slots by the library are occupied,station
+Where can I leave the bicycle near the mall?,station
+The kiosk screen is black,station
+No bikes available at the park,station
+The rack will not release the bicycle,station
+The docking post by city hall flashes red,station
+Can you add a pickup point near school?,station
+The map shows a stop that has disappeared,station
+The return stand is coverd in snow,station
+I left the bicycle in slot nine but the terminal did not register it,station
+I forgot the secret code for signing in,account
+Please change the name on my membership,account
+Cannot access my user page,account
+The verification email never arrives,account
+How can I close my membership?,account
+My new phone number needs to be added,account
+I am locked out after three attempts,account
+The reset link has expired,account
+My profle picture will not upload,account
+I moved and need to update the address saved in my personal settings,account
